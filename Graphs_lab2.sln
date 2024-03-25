@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Graphs_lab2", "Graphs_lab2\Graphs_lab2.pyproj", "{C083C104-82A5-483B-A3CF-041F46FFC773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C083C104-82A5-483B-A3CF-041F46FFC773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C083C104-82A5-483B-A3CF-041F46FFC773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E7C4D02-85DD-4AF9-ADE4-5A7B9407D5E1}
+	EndGlobalSection
+EndGlobal
